@@ -1,2 +1,3 @@
 # AI_Leserbriefe
- Takes what some ppl like to say in fl and makes new garbage statments
+ This project takes the text from the Leserbriefe Repository and returns newly generated texts, using GPT-3.
+ 
